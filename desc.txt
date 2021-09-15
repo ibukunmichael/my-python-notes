@@ -1,0 +1,1 @@
+This files are notes I wrote on python application development using some python modules.
